@@ -1115,7 +1115,7 @@ binomial.geo.MCML <- function(formula,units.m,coords,data,ID.coords,
 
 
 ##' @title Monte Carlo Maximum Likelihood estimation for the binomial logistic model
-##' @description This function performs Monte Carlo maximum likelihood (MCML) estimation for the geostatistical binomial logistic model.
+##' @description Perform Monte Carlo maximum likelihood (MCML) estimation for the geostatistical binomial logistic model.
 ##' @param formula an object of class \code{\link{formula}} (or one that can be coerced to that class): a symbolic description of the model to be fitted.
 ##' @param units.m an object of class \code{\link{formula}} indicating the binomial denominators.
 ##' @param coords an object of class \code{\link{formula}} indicating the geographic coordinates.
